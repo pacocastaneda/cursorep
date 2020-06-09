@@ -26,3 +26,6 @@ Git add -A .
 
 Etiquetar
 Git commit -m “nueva carpeta de prueba”
+
+
+--cambios de tanya jejeje
