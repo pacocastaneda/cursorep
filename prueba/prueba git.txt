@@ -1,0 +1,28 @@
+GitHub -- GitLab
+Controlar versiones
+
+-->Almacenamiento
+-->Servidor
+-->Lineas de tiempo
+
+
+Github (repositorios (link:ssh) ) nube  - privados o publicos
+
+Clona la informacion a traves
+
+GitLab (repositorio local)
+
+Actualizar de manera local GitLab de GitHub (pull)
+
+
+Terminal Git Bash
+Ls -l
+
+Cd -- salto a una carpeta
+Cd.. -- salir de la carpeta
+
+Empaquetar informacion
+Git add -A .
+
+Etiquetar
+Git commit -m “nueva carpeta de prueba”
