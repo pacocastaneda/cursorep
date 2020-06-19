@@ -1,2 +1,0 @@
-# cursorep
-capacitacion
